@@ -1,4 +1,4 @@
-package Assignment_Module2;
+package Assignment3;
 
 public class Q3_printarrayelements {
     public static void main(String[] args){

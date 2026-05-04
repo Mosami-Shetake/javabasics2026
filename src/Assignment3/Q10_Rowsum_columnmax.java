@@ -1,4 +1,4 @@
-package Assignment_Module2;
+package Assignment3;
 
 public class Q10_Rowsum_columnmax {
     public static void main(String[] args){

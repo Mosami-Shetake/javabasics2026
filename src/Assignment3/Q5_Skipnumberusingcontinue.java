@@ -1,4 +1,4 @@
-package Assignment_Module2;
+package Assignment3;
 
 public class Q5_Skipnumberusingcontinue {
 
